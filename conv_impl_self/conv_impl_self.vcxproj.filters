@@ -11,4 +11,14 @@
       <UniqueIdentifier>{69498395-3c2b-44c6-8163-4d6154ecd830}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="feed_forward_decl.h">
+      <Filter>includes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="feed_forward_no_thread.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
